@@ -2,6 +2,7 @@ package me.nlmartian.silkcal.sample;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 
 import me.nlmartian.silkcal.DatePickerController;
 import me.nlmartian.silkcal.DayPickerView;
@@ -15,7 +16,7 @@ public class MainActivity extends AppCompatActivity implements DatePickerControl
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        Log.e("YJL","成功了？？？");
         calendarView = (DayPickerView) findViewById(R.id.calendar_view);
         calendarView.setController(this);
     }
