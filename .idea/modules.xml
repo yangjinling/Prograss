@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appHuaGan/appHuaGan.iml" filepath="$PROJECT_DIR$/appHuaGan/appHuaGan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appPrograss/appPrograss.iml" filepath="$PROJECT_DIR$/appPrograss/appPrograss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catloadinglibrary/catloadinglibrary.iml" filepath="$PROJECT_DIR$/catloadinglibrary/catloadinglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loading-dots/loading-dots.iml" filepath="$PROJECT_DIR$/loading-dots/loading-dots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prograssapp/prograssapp.iml" filepath="$PROJECT_DIR$/prograssapp/prograssapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleHuaGan/sampleHuaGan.iml" filepath="$PROJECT_DIR$/sampleHuaGan/sampleHuaGan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleRiLi/sampleRiLi.iml" filepath="$PROJECT_DIR$/sampleRiLi/sampleRiLi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleTuoDongTiao/sampleTuoDongTiao.iml" filepath="$PROJECT_DIR$/sampleTuoDongTiao/sampleTuoDongTiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidebar/slidebar.iml" filepath="$PROJECT_DIR$/slidebar/slidebar.iml" />
+    </modules>
+  </component>
+</project>
